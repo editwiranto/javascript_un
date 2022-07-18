@@ -1,0 +1,1 @@
+pertemuan ini tentang bagaimana menggunakan javascript dengan satu file ataupun file yang terpisah
