@@ -10,6 +10,7 @@
 // } else {
 //   alert("Terimakasih");
 // }
+
 alert("Selamat Datang");
 var betul = true;
 
